@@ -1,0 +1,65 @@
+.container{
+    /* background-color: red; */
+    width: 63%;
+    margin: auto;
+    height: 80vh;
+    border: 2px solid black;
+    padding: 12px;
+    border-radius: 12px;
+    overflow-y: auto;
+
+    
+}
+h1{
+    font-size: 14px;
+    margin: auto;
+    display: block;
+    width: 38%;
+    margin-bottom: 12px;
+}
+
+nav img{
+    width: 6%;
+    margin: auto;
+    display: block;
+    margin-bottom: 19px;
+}
+.message{
+  background-color: gray;
+  padding: 12px;
+  border: 2px solid black;
+  border-radius: 12px;
+  margin: 5px 6px;
+}
+.left{
+    float: left;
+    clear: both;
+}
+
+.right{
+    float: right;
+    clear: both;
+}
+
+body{
+ background-color: darkcyan;
+ background-image: url('/woman.jpg') ;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+#myinput{
+    background-color: blue;
+}
+
+
+
+form{
+    
+    text-align: center;
+    padding: 14px;
+}
+
+#myinpunt{
+    width: 59%;
+}
